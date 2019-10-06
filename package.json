@@ -1,0 +1,10 @@
+{
+  "name": "turkeyburger",
+  "version": "1.0.0",
+  "description": "receipt printer",
+  "main": "index.js",
+  "repository": "https://github.com/dillonchr/turkeyburger.git",
+  "author": "Dillon Christensen <j.dillon.christensen@gmail.com>",
+  "license": "GPL-2.0",
+  "private": false
+}
